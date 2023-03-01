@@ -1,0 +1,9 @@
+/node_modules/**/*
+
+src/types/vite-env.d.ts
+
+src/types/components.d.ts
+
+src/types/auto-imports.d.ts
+
+.eslintrc-auto-import.json
